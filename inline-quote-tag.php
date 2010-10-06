@@ -81,7 +81,7 @@ class Q_Tag
 	function add_map_plugin( $plugin_array )
 	{
 	
-		$plugin_array['qtag'] = WP_PLUGIN_URL . '/q-tag/js/tinymce/plugins/qtag/editor_plugin.js';
+		$plugin_array['qtag'] = WP_PLUGIN_URL . '/inline-quote-tag/js/tinymce/plugins/qtag/editor_plugin.js';
 		return $plugin_array;
 	
 	}
