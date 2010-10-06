@@ -6,7 +6,7 @@
 Plugin Name: Inline Quote Tag
 Description: Insert HTML inline quote tags.
 Author: husobj
-Version: 1.0
+Version: 1.1
 */
 
 
