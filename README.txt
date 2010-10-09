@@ -1,6 +1,6 @@
 === Inline Quote Tag  ===
 Contributors: husobj
-Donate link: http://www.benhuson.co.uk/donate
+Donate link: http://www.benhuson.co.uk/wordpress-plugins/inline-quote-tag/
 Tags: html, quote, editor
 Requires at least: 2.8
 Tested up to: 3.0.1
