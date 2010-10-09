@@ -14,6 +14,10 @@ This simple plugin adds a button to the WordPress rich HTML editor to add an inl
 2. Put the "inline-quote-tag" folder in "wp-content/plugins"
 3. Enable in WordPress by visiting the "Plugins" menu and activating it.
 
+== Screenshots ==
+
+1. Inline Quote Tag Button
+
 == Changelog ==
 
 = 1.1 =
