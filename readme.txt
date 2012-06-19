@@ -4,7 +4,7 @@ Donate link: http://www.benhuson.co.uk/wordpress-plugins/inline-quote-tag/
 Tags: html, quote, editor
 Requires at least: 2.8
 Tested up to: 3.4
-Stable tag: 1.1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ This simple plugin adds a button to the WordPress rich HTML editor to add an inl
 
 This simple plugin adds a button to the WordPress rich HTML editor to add an inline quote tag.
 
-For more information and feature requests visit the <a href="http://www.benhuson.co.uk/wordpress-plugins/inline-quote-tag/">Inline Quote Tag plugin</a> page.
+For more information and feature requests visit the [Inline Quote Tag](http://www.benhuson.co.uk/wordpress-plugins/inline-quote-tag/) page.
 
 == Installation ==
 1. Download the archive file and uncompress it.
@@ -26,6 +26,11 @@ For more information and feature requests visit the <a href="http://www.benhuson
 1. Inline Quote Tag Button
 
 == Changelog ==
+
+= 1.2 =
+
+* Improved readme.txt file.
+* Checked WordPress 3.4 compatibility.
 
 = 1.1 =
 
